@@ -77,7 +77,7 @@ public class CSV_Splitter {
                     new FileWriter("C:/Users/josep/Downloads/" + temp + ".csv", true)
                 );  
 			
-			System.out.print(temp);
+//			System.out.print(temp);
 			scanner.next();
 			scanner.next();
 			writer.write(scanner.next());

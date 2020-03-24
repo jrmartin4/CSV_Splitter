@@ -2,6 +2,7 @@
 - Was asked for columns 5, 6, and 11.
 
 Steps to run program:
+0. Install Java: https://www.oracle.com/java/technologies/javase-downloads.html
 1. Install Eclipse: https://www.eclipse.org/downloads/
 2. Create a new program by going to File>New>Java Project and name it whatever you want, then click create at the window that pops up
 3. File>New>Class and name it "CSV_Splitter"

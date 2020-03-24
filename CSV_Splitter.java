@@ -69,7 +69,7 @@ public class CSV_Splitter {
 			
 			scanner.next(); //skips first line and goes straight to deer id (column 2)
 			String temp = scanner.next();
-			temp = temp.substring(1, temp.length() - 1); //gets rid of quotes around deer id
+			temp = temp.substring(3, temp.length() - 3); //gets rid of quotes around deer id
 			
 			//used to write the desired values into the appropriate file
 			//TODO: change file path to appropriate CSV file destination
